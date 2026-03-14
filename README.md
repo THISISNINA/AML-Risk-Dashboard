@@ -41,7 +41,7 @@ RETURN
 ---
 
 ## Dashboard Preview
-
+![Dashboard Preview](Dashboard_preview.png.png)
 
 ---
 
