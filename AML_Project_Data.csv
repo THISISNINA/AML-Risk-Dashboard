@@ -1,0 +1,71 @@
+Record_ID,Sector,Client_Name,Client_Type,Country_Risk,Is_PEP,Payment_Method,Transaction_Value,Source_of_Wealth,KYC_Status,Last_Review_Date
+101,Real Estate,Al-Fayed Properties,Corporate,High (Blacklist),No,Cash,2500000,Real Estate Sales,Expired,2024-01-15
+102,Precious Metals,John Smith,Individual,Low,No,Wire Transfer,12000,Savings,Verified,2025-02-10
+103,Legal Services,Volkov Trust,Trust,High (Blacklist),Yes,Crypto,500000,Unknown,Pending,2024-11-20
+104,Real Estate,Sarah Jenkins,Individual,Low,No,Bank Draft,750000,Inheritance,Verified,2025-01-05
+105,Casino,Lucky Strike LLC,Corporate,Medium,No,Cash,45000,Business Revenue,Verified,2025-03-01
+106,Accounting,Elite Tax Firm,Corporate,Low,No,Wire Transfer,15000,Business Revenue,Verified,2024-06-12
+107,Precious Metals,Gold Standard Ltd,Corporate,Medium,No,Cash,120000,Inventory Sale,Verified,2025-02-28
+108,Real Estate,Victor Wang,Individual,Low,No,Third-Party Wire,3200000,Investment,Pending,2024-12-15
+109,Trust/CSP,Shell Corp A,Corporate,High (Grey List),No,Wire Transfer,2000,Unknown,Expired,2023-09-10
+110,Legal Services,Elena Rossi,Individual,Low,No,Cash,50000,Savings,Verified,2025-01-20
+111,Real Estate,Horizon Heights,Corporate,Low,No,Wire Transfer,4100000,Rental Income,Verified,2025-01-10
+112,Precious Metals,Diamond Exchange,Corporate,High (Grey List),No,Cash,95000,Trade,Pending,2024-08-22
+113,Casino,High Roller Inc,Corporate,Low,No,Crypto,250000,Gambling Wins,Verified,2025-02-05
+114,Legal Services,Alpha Law,Corporate,Low,Yes,Wire Transfer,85000,Legal Fees,Verified,2024-05-15
+115,Real Estate,Urban Living,Individual,Medium,No,Cash,600000,Family Trust,Expired,2023-11-30
+116,Precious Metals,Dubai Gold Trade,Corporate,Medium,No,Wire Transfer,850000,Business Revenue,Verified,2025-01-20
+117,Real Estate,Marina View 10,Individual,Low,No,Bank Draft,1200000,Savings,Verified,2025-02-14
+118,Legal Services,Zheng & Co,Trust,High (Grey List),No,Third-Party Wire,450000,Unknown,Pending,2024-10-05
+119,Casino,High Stakes NV,Corporate,High (Blacklist),No,Cash,250000,Unknown,Expired,2023-08-12
+120,Art Dealer,Galerie Luxe,Corporate,Low,No,Wire Transfer,95000,Art Sales,Verified,2025-01-30
+121,Real Estate,Green Valley Ltd,Corporate,Medium,No,Cash,890000,Loan,Pending,2024-11-11
+122,Precious Metals,Silver Lining,Individual,Low,No,Cash,14000,Savings,Verified,2025-03-05
+123,Accounting,Tax Solvers,Corporate,Low,No,Wire Transfer,5000,Consulting,Verified,2024-09-18
+124,Legal Services,Boutique Law,Trust,High (Grey List),Yes,Crypto,120000,Business Revenue,Pending,2024-12-01
+125,Real Estate,Skyline Units,Individual,Low,No,Wire Transfer,550000,Inheritance,Verified,2025-01-22
+126,Casino,Vegas Star,Individual,Low,No,Cash,9000,Gambling Wins,Verified,2025-02-20
+127,Precious Metals,Minted Gold,Corporate,High (Blacklist),No,Wire Transfer,2200000,Mining Ops,Expired,2023-12-15
+128,Real Estate,Old Town Villas,Individual,Low,No,Bank Draft,2100000,Investment,Verified,2025-01-05
+129,Trust/CSP,Nominee Services,Corporate,High (Blacklist),No,Third-Party Wire,15000,Unknown,Pending,2024-07-10
+130,Legal Services,Justice Partners,Individual,Low,No,Cash,25000,Savings,Verified,2025-02-12
+131,Real Estate,Beachfront LLC,Corporate,Medium,No,Crypto,3000000,Crypto Exit,Pending,2024-11-19
+132,Art Dealer,Masterpiece Inc,Corporate,Low,Yes,Wire Transfer,450000,Inheritance,Verified,2025-01-15
+133,Precious Metals,Jewel Trade,Individual,Low,No,Cash,18000,Business Revenue,Verified,2025-03-02
+134,Accounting,Global Audit,Corporate,Low,No,Wire Transfer,12000,Audit Fees,Verified,2024-10-25
+135,Real Estate,Penthouse A1,Individual,High (Grey List),Yes,Wire Transfer,5500000,Business Revenue,Expired,2023-06-30
+136,Casino,BetEasy,Individual,Low,No,Cash,48000,Savings,Verified,2025-02-28
+137,Legal Services,Trustee Corp,Trust,Medium,No,Wire Transfer,100000,Unknown,Pending,2024-09-12
+138,Real Estate,City Lofts,Corporate,Low,No,Bank Draft,800000,Rental Income,Verified,2025-01-08
+139,Precious Metals,Bullion Bank,Corporate,Low,No,Wire Transfer,1500000,Trade Finance,Verified,2025-02-15
+140,Accounting,Smith & Co,Individual,Low,No,Wire Transfer,2500,Salary,Verified,2024-08-01
+141,Real Estate,Azure Towers,Individual,High (Blacklist),No,Cash,1250000,Unknown,Expired,2024-02-20
+142,Casino,Neon Slots,Individual,Medium,No,Cash,3500,Gambling Wins,Verified,2025-03-04
+143,Legal Services,Law House,Corporate,Low,No,Third-Party Wire,65000,Legal Fees,Verified,2025-01-11
+144,Real Estate,Park Side,Individual,Low,No,Wire Transfer,450000,Savings,Verified,2025-01-30
+145,Art Dealer,Canvas Ltd,Individual,Low,No,Cash,55000,Inheritance,Pending,2024-12-10
+146,Precious Metals,Pure Silver,Corporate,Low,No,Wire Transfer,42000,Business Revenue,Verified,2025-02-14
+147,Trust/CSP,Alpha Trust,Trust,High (Grey List),Yes,Crypto,900000,Unknown,Expired,2023-11-11
+148,Real Estate,Metro Square,Corporate,Low,No,Bank Draft,2700000,Investment,Verified,2025-01-05
+149,Casino,Grand Palace,Individual,Low,No,Cash,15000,Savings,Verified,2025-03-01
+150,Legal Services,Advocate Group,Individual,Medium,No,Wire Transfer,12000,Consulting,Verified,2024-10-18
+151,Real Estate,Lakeside Manor,Corporate,Low,No,Wire Transfer,4500000,Rental Income,Verified,2025-02-10
+152,Precious Metals,Igor Petrova,Individual,High (Blacklist),No,Cash,85000,Unknown,Expired,2023-05-14
+153,Art Dealer,Modern Frame,Corporate,Medium,No,Crypto,125000,Art Sales,Pending,2024-12-20
+154,Legal Services,Justice Holdings,Trust,Low,No,Third-Party Wire,210000,Family Trust,Verified,2025-01-18
+155,Casino,Royal Flush Co,Corporate,High (Grey List),No,Cash,350000,Business Revenue,Expired,2024-03-22
+156,Accounting,Swift Ledger,Corporate,Low,No,Wire Transfer,8000,Consulting,Verified,2025-03-10
+157,Trust/CSP,Nomad Solutions,Corporate,High (Blacklist),Yes,Crypto,1500000,Unknown,Pending,2024-06-05
+158,Real Estate,Chloe Dupont,Individual,Low,No,Bank Draft,890000,Inheritance,Verified,2025-02-01
+159,Precious Metals,Golden Path,Corporate,Medium,No,Wire Transfer,560000,Mining Ops,Verified,2025-01-15
+160,Legal Services,Marcus Thorne,Individual,Low,Yes,Cash,45000,Salary,Verified,2025-02-28
+161,Art Dealer,Vintage Vault,Individual,Medium,No,Wire Transfer,72000,Inheritance,Pending,2024-11-30
+162,Real Estate,Summit Peaks,Corporate,High (Grey List),No,Third-Party Wire,6000000,Unknown,Expired,2023-12-01
+163,Casino,All-In Gaming,Individual,Low,No,Cash,12000,Gambling Wins,Verified,2025-03-08
+164,Accounting,Precision Tax,Individual,Low,No,Wire Transfer,4500,Salary,Verified,2024-09-12
+165,Precious Metals,Silver Star,Corporate,Low,No,Cash,22000,Trade,Verified,2025-02-25
+166,Real Estate,Oasis Villas,Trust,High (Blacklist),No,Wire Transfer,3300000,Investment,Pending,2024-10-14
+167,Legal Services,Bridges & Co,Corporate,Low,No,Wire Transfer,150000,Legal Fees,Verified,2025-01-05
+168,Trust/CSP,Global Custody,Trust,Medium,Yes,Crypto,400000,Unknown,Expired,2024-01-20
+169,Real Estate,Li Wei,Individual,Low,No,Bank Draft,1100000,Savings,Verified,2025-02-19
+170,Casino,Jackpot City,Corporate,Low,No,Cash,50000,Business Revenue,Verified,2025-03-01
